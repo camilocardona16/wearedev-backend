@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_filters',
     'apps.example_app',
+    'apps.tasks',
     'rest_framework',
     'knox',
     'apps.knox_auth',
